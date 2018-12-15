@@ -1,2 +1,0 @@
-# djangoapp
-For ubunto configuration
